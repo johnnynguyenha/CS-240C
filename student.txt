@@ -1,0 +1,50 @@
+Freddy Johnson
+3578
+Geology
+Junior
+714-733-6587
+4.0
+92873
+Johnny Nguyen
+3482
+Computer Science
+Sophomore
+591-281-5825
+2.9
+91082
+Gwen Mak
+5910
+Art History
+Sophomore
+626-384-3288
+3.5
+92957
+Kyle Kumar
+5810
+Business
+Senior
+859-294-1939
+3.6
+95148
+Shaan Gill
+1852
+Information Technology
+Senior
+408-185-2819
+1.2
+91505
+Andrew Koulabouth
+1919
+Biology
+Junior
+669-229-1818
+3.2
+18591
+Nathan Tran
+5902
+Nursing
+Senior
+292-191-2282
+4.0
+91235
+
