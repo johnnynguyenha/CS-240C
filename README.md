@@ -5,12 +5,12 @@ This Student Manager project is an interactive database system written in C. It 
 Features
 The Student Manager project provides the following capabilities:
 
-  Copy Database: Create a backup of the current binary file containing the student records.
-  View All Records: Output all student records stored in the database.
-  Search by ID: Retrieve and display a student's information using their unique ID number.
-  View by Position: Display the student record at a specific position in the database.
-  Add a New Student: Add a new student's details, including name, ID, major, classification, phone number, GPA, and zip code, to the database.
-  Remove a Student: Delete a student's record from the database by their ID.
+  Copy Database: Create a backup of the current binary file containing the student records.\n
+  View All Records: Output all student records stored in the database.\n
+  Search by ID: Retrieve and display a student's information using their unique ID number.\n
+  View by Position: Display the student record at a specific position in the database.\n
+  Add a New Student: Add a new student's details, including name, ID, major, classification, phone number, GPA, and zip code, to the database.\n
+  Remove a Student: Delete a student's record from the database by their ID.\n
 
 # Data Structure
 The project uses a struct to store the following information about each student:
