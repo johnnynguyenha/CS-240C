@@ -2,7 +2,7 @@
 # Student Manager
 This Student Manager project is an interactive database system written in C. It allows users to manage student records efficiently, supporting various operations such as adding, removing, and searching for student information. The project utilizes C structs to represent students and works with binary files for persistent storage.
 
-Features
+# Features
 The Student Manager project provides the following capabilities:
 
   Copy Database: Create a backup of the current binary file containing the student records.  
