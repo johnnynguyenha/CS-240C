@@ -5,28 +5,28 @@ This Student Manager project is an interactive database system written in C. It 
 Features
 The Student Manager project provides the following capabilities:
 
-  Copy Database: Create a backup of the current binary file containing the student records.\n
-  View All Records: Output all student records stored in the database.\n
-  Search by ID: Retrieve and display a student's information using their unique ID number.\n
-  View by Position: Display the student record at a specific position in the database.\n
-  Add a New Student: Add a new student's details, including name, ID, major, classification, phone number, GPA, and zip code, to the database.\n
-  Remove a Student: Delete a student's record from the database by their ID.\n
+  Copy Database: Create a backup of the current binary file containing the student records.  
+  View All Records: Output all student records stored in the database.  
+  Search by ID: Retrieve and display a student's information using their unique ID number.  
+  View by Position: Display the student record at a specific position in the database.  
+  Add a New Student: Add a new student's details, including name, ID, major, classification, phone number, GPA, and zip code, to the database.  
+  Remove a Student: Delete a student's record from the database by their ID.  
 
 # Data Structure
 The project uses a struct to store the following information about each student:
 
-Name: Full name of the student.
-ID: Unique identification number.
-Major: The student’s field of study.
-Classification: Year or level (e.g., freshman, sophomore, etc.).
-Phone Number: Contact number.
-GPA: Current grade point average.
-Zip Code: Area code for the student's address.
+Name: Full name of the student.  
+ID: Unique identification number.  
+Major: The student’s field of study.  
+Classification: Year or level (e.g., freshman, sophomore, etc.).  
+Phone Number: Contact number.  
+GPA: Current grade point average.  
+Zip Code: Area code for the student's address.  
 
 # Project Structure
-final.c: Main source file containing the implementation of the student manager functions.
-student.h: Header file that declares the structures used in the project.
-students.bin: Binary file where student data is stored and retrieved from.
+final.c: Main source file containing the implementation of the student manager functions.  
+student.h: Header file that declares the structures used in the project.  
+students.bin: Binary file where student data is stored and retrieved from.  
 
 # Usage
 Once the program is running, you will be presented with a menu to interact with the student database. You can choose from the following options:
