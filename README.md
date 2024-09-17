@@ -28,6 +28,9 @@ final.c: Main source file containing the implementation of the student manager f
 student.h: Header file that declares the structures used in the project.  
 students.bin: Binary file where student data is stored and retrieved from.  
 
+# Executing
+To use the program, use ./final in terminal
+
 # Usage
 Once the program is running, you will be presented with a menu to interact with the student database. You can choose from the following options:
 
