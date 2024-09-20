@@ -1,4 +1,5 @@
-
+Developer: Johnny Nguyen  
+Email: johnny.nguyenha@gmail.com or johnnynguyenha@csu.fullerton.edu  
 # Student Manager
 This Student Manager project is an interactive database system written in C. It allows users to manage student records efficiently, supporting various operations such as adding, removing, and searching for student information. The project utilizes C structs to represent students and works with binary files for persistent storage.
 
