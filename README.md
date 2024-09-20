@@ -28,7 +28,7 @@ final.c: Main source file containing the implementation of the student manager f
 student.h: Header file that declares the structures used in the project.  
 students.bin: Binary file where student data is stored and retrieved from.  
 
-# Eompiling and Executing
+# Compiling and Executing
 To compile, use ./compile.sh. To use the program, use ./final in terminal
 
 # Usage
