@@ -46,5 +46,5 @@ Once the program is running, you will be presented with a menu to interact with 
 # Example
 ![image](https://github.com/user-attachments/assets/08cf3686-619d-4bf3-8c6f-2d025c4bd9ab)
 
-Contributions
+# Contributions
 Feel free to submit pull requests or open issues if you'd like to contribute or report any bugs!
